@@ -29,7 +29,7 @@
 <a href="https://www.youtube.com/c/hamzale'ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hamzale'ss" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Araçlar ve Diller (Burdakilerin çoğunda 2 satır kod falan yazmışımdır):</h3>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaless&show_icons=true&locale=en" alt="hamzaless" /></p>
