@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba Ben ✨ Hamzaless</h1>
 <h3 align="center">Kendi Başıma Kodlama Yapıyorum :)</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=hamzaless&label=girilme%20sayisi&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=hamzaless&label=Profile%20views&color=0e75b6&style=flat)" alt="hamzaless" /> </p>
+<p align="left"> <img src="{[https://komarev.com/ghpvc/?username=hamzaless&label=girilme%20say%C4%B1s%C4%B1&color=0e75b6](https://komarev.com/ghpvc/?)" alt="hamzaless" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaless" alt="hamzaless" /></a> </p>
 
