@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm MrHamzaless</h1>
-<h3 align="center">Im a DotNet developer from turkey.</h3>
+<h3 align="center">I'm a DotNet, web developer from turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaless&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaless" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaless" alt="hamzaless" /></a> </p>
 
 - 🔭 I’m currently working on **Lexus Team**
 
@@ -14,6 +12,8 @@
 - 💬 Ask me about **C#**
 
 - 📫 How to reach me **Discord, mrhamzaless**
+
+- 🌍 My Website is [https://www.mrhamzaless.xyz](https://www.mrhamzaless.xyz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
