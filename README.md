@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaless&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaless" /> </p>
 
-- 🔭 I’m currently working on **Lexus Team**
+- 🔭 I’m currently working on **Lexus Team** [Github Page](https://github.com/LexusProject)
 
 - 🌱 I’m currently learning **NODE JS, C++, JAVA**
 
