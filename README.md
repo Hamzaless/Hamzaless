@@ -7,17 +7,16 @@
 
 - 🌱 I’m currently learning **NODE JS, C++, JAVA**
 
-- 👨‍💻 All of my projects are available at [https://www.mrhamzaless.xyz](https://www.mrhamzaless.xyz)
+- 👨‍💻 All of my projects are available at [https://www.mrhamzaless.com](https://www.mrhamzaless.com)
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **Anything :D**
 
-- 📫 How to reach me **Discord, mrhamzaless**
+- 📫 How to reach me **Discord: mrhamzaless**
 
-- 🌍 My Website is [https://www.mrhamzaless.xyz](https://www.mrhamzaless.xyz)
+- 🌍 My Website is [https://www.mrhamzaless.com](https://www.mrhamzaless.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hamzalessyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamzalessyt" height="30" width="40" /></a>
 <a href="https://instagram.com/hamz.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamz.dev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mrhamzaless" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrhamzaless" height="30" width="40" /></a>
 </p>
