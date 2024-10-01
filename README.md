@@ -72,9 +72,6 @@
 
 ###
 
-<br clear="both">
-
-
 ###
 
 <div align="center">
@@ -82,8 +79,6 @@
 </div>
 
 ###
-
-<p align="left">Hello World!!</p>
 
 ###
 
@@ -107,10 +102,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
-
-###
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaless&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaless" /> </p>
 
 ###
