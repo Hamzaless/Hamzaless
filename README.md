@@ -1,4 +1,4 @@
-<h2 align="left">Hamza Bilgin, known as MrHamzaless.</h2>
+<h2 align="left">Hamza, known as MrHamzaless.</h2>
 
 ###
 
